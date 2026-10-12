@@ -1,0 +1,16 @@
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+scikit-learn
+ucimlrepo
+mlflow
+prefect
+fastapi
+uvicorn
+joblib
+pydantic
+pytest
+jupyter
+ipykernel
