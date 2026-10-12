@@ -27,7 +27,6 @@ cd obesity-risk-mlops
 **Windows (PowerShell)**
 
 python -m venv .venv
-
 .\.venv\Scripts\activate
 
 **MacOS / Linux**
