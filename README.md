@@ -25,6 +25,7 @@ cd obesity-risk-mlops
 
 **Crear Entorno Virtual**
 **Windows (PowerShell)**
+
 python -m venv .venv
 
 .\.venv\Scripts\activate
